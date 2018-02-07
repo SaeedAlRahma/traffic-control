@@ -1,4 +1,4 @@
-# traffic-control
+# Traffic Control
 Multiple robots traveling straight across an intersection as quickly as possible without leaving the road and without colliding with each other
 
 ## RUNNING SIMULATION ##
